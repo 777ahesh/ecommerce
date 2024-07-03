@@ -1,0 +1,15 @@
+{
+    "post":[{
+        "id":1,
+        "title":"Hello World",
+        "author":"John Doe"
+    }],
+    "comment":[{
+       "id":1,
+        "comment":"Hello World",
+        "author":"John Doe"
+    }],
+    "profile":[{
+        "name": "typicode"
+    }]
+}
